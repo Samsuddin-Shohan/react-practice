@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+.container {
+  background-color: #142f43;
+  padding: 10px;
+  margin: 20px;
+  text-align: center;
+  border: 3px solid #ff5f7e;
+}
+.container h1 {
+  color: #ffab4c;
+}
+.container h4 {
+  color: #ff5f7e;
+}
+
+.button-style {
+  background-color: #ffab4c;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #ff5f7e;
+}
